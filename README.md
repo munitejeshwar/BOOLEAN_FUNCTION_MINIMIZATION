@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/49a233a7-73e4-4793-ad9c-7159b980b361" /><img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/49a233a7-73e4-4793-ad9c-7159b980b361" /># BOOLEAN_FUNCTION_MINIMIZATION
+# BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
 
@@ -57,10 +57,8 @@ Developed by:Rajalakshmi V RegisterNumber:25016476
 
 **Output:**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc41826b-950f-4997-8ebc-ff17e5e3b887" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc41826b-950f-4997-8ebc-ff17e5e3b887" />
 
 **RTL**
-<img width="1915" height="1079" alt="image" src="https://github.com/user-attachments/assets/81fb7b07-5c8a-499e-b89f-c0980377e6cf" />
 <img width="1915" height="1079" alt="image" src="https://github.com/user-attachments/assets/81fb7b07-5c8a-499e-b89f-c0980377e6cf" />
 Truth Table:
 
